@@ -70,7 +70,7 @@ export default function Header() {
         {/* Creator tag */}
         <p className="mt-8 text-xs text-indigo-300">
           Created by{" "}
-          <span className="text-white font-semibold">Nitesh Jatt</span>
+          <span className="text-white font-semibold">Nitesh Sagar</span>
           {" · "}
           <a href="mailto:niteshsagar58@gmail.com" className="hover:text-white underline underline-offset-2 transition-colors">
             niteshsagar58@gmail.com

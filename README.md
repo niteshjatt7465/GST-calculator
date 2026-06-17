@@ -193,7 +193,7 @@ Total Amount = Base Amount + GST Amount
 
 ## 👨‍💻 Created By
 
-**Nitesh Jatt**
+**Nitesh Sagar**
 📧 [niteshsagar58@gmail.com](mailto:niteshsagar58@gmail.com)
 🌐 Built for [Digital Heroes Co.](https://digitalheroesco.com)
 

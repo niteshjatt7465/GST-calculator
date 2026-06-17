@@ -58,7 +58,7 @@ export async function downloadInvoicePDF(invoiceData) {
   // Created by text in header
   doc.setFontSize(9);
   doc.setTextColor(167, 139, 250);
-  doc.text("Created by Nitesh Jatt", pageWidth - margin, 28, { align: "right" });
+  doc.text("Created by Nitesh Sagar", pageWidth - margin, 28, { align: "right" });
 
   // ── Invoice Meta Block ───────────────────────────────────────
   let y = 72;
@@ -227,7 +227,7 @@ export async function downloadInvoicePDF(invoiceData) {
   doc.setFont("helvetica", "normal");
   doc.setFontSize(8);
   doc.setTextColor(199, 210, 254);
-  doc.text("Created by Nitesh Jatt", pageWidth / 2, pageHeight - 8, { align: "center" });
+  doc.text("Created by Nitesh Sagar", pageWidth / 2, pageHeight - 8, { align: "center" });
   doc.text("digitalheroesco.com", pageWidth - margin, pageHeight - 8, { align: "right" });
 
   // ── Download ──────────────────────────────────────────────────

@@ -34,7 +34,7 @@ export default function Footer() {
           <div className="flex flex-col sm:items-end gap-1.5">
             <p className="text-sm">
               Created by{" "}
-              <span className="text-white font-semibold">Nitesh Jatt</span>
+              <span className="text-white font-semibold">Nitesh Sagar</span>
             </p>
 
             <div className="flex items-center gap-3">

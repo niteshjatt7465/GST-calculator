@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "description": "Free online GST Calculator and Invoice Generator with PDF download",
-  "author": "Nitesh Jatt <niteshsagar58@gmail.com>",
+  "author": "Nitesh Sagar <niteshsagar58@gmail.com>",
   "homepage": "https://gst-calculator-invoice-generator.vercel.app",
   "type": "module",
   "scripts": {
