@@ -50,14 +50,14 @@ export default function Footer() {
 
               {/* GitHub placeholder */}
               <a
-                href="https://github.com"
+                href="https://github.com/niteshjatt7465/GST-calculator"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-1.5 text-xs hover:text-indigo-400 transition-colors"
-                aria-label="GitHub Profile"
+                aria-label="View source code on GitHub"
               >
                 <GitBranch size={13} />
-                GitHub
+                View on GitHub
               </a>
             </div>
           </div>

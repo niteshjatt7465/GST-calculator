@@ -86,7 +86,7 @@ gst-calculator-invoice-generator/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/gst-calculator-invoice-generator.git
+git clone https://github.com/niteshjatt7465/GST-calculator.git
 
 # 2. Navigate into the project directory
 cd gst-calculator-invoice-generator
