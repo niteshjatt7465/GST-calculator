@@ -138,7 +138,7 @@ vercel --prod
 2. Go to **[vercel.com/new](https://vercel.com/new)**
 3. Import your `gst-calculator-invoice-generator` repository
 4. Vercel auto-detects Vite — click **Deploy**
-5. Your app is live at `https://gst-calculator-invoice-generator.vercel.app` 🎉
+5. Your app is live at `https://gst-calculator-self.vercel.app` 🎉
 
 > **Note:** The `vercel.json` file is already configured — no extra settings needed.
 
